@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L+IomMsYRQRhqaqewFwAZt6TMfh7pyAi4J29eiQozAc=",
+  "Source": "Weather-opentelemetry2",
+  "BasePath": "_content/Weather-opentelemetry2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
